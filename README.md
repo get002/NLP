@@ -6,8 +6,7 @@ Natural Language Processing
 > 
 >> 1.1 Words and Their Components
 >> 
->>> 1.1.1 Tokens
->>> 
+>>> 1.1.1 Tokens<br/>
 >>> 1.1.2 Lexemes
 >>> 
 >>> 1.1.3 Morphemes
