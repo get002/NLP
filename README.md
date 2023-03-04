@@ -7,8 +7,8 @@ Natural Language Processing
 >> 1.1 Words and Their Components
 >> 
 >>> 1.1.1 Tokens<br/>
->>> 1.1.2 Lexemes<br/><br/>
->>> 1.1.3 Morphemes<br/><br/>
+>>> 1.1.2 Lexemes<br/>
+>>> 1.1.3 Morphemes<br/>
 >>> 1.1.4 Typology
 >>> 
 >> 1.2 Issues and Challenges
