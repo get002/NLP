@@ -32,5 +32,5 @@ Natural Language Processing
 2. Explain about Words and their components?
 3. Discuss about issues and challenges in NLP?
 4. Explain any one morphological model? (8 marks)
-5. Discuss the challenging issues issues of orphological model?
+5. Discuss the challenging issues issues of Morphological model?
 6. 
