@@ -1,5 +1,5 @@
 # NLP
-Natural Language Processing
+<marquee bgcolor="yellow"><b>Natural Language Processing</b></marquee>
 
 # UNIT - 01
 > <b> Finding the Structure of Words </b>
@@ -25,7 +25,7 @@ Natural Language Processing
 >>> 1.3.4 Functional Morphology<br/>
 >>> 1.3.5 Morphology Induction<br/>
 >
-> Finding the Structure of Documents
+> <b>Finding the Structure of Documents</b>
 
 >> 2.1 Introduction
 >>> 2.1.1 Sentence Boundary Detection<br/>
