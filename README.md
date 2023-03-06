@@ -2,7 +2,7 @@
 Natural Language Processing
 
 # UNIT - 01
-> Finding the Structure of Words
+> <b> Finding the Structure of Words </b>
 > 
 >> 1.1 Words and Their Components
 >> 
