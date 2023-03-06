@@ -1,5 +1,5 @@
 # NLP
-<b><p color="blue">Natural Language Processing</p></b>
+<b><p style="color:blue;">Natural Language Processing</p></b>
 
 # UNIT - 01
 > <b> Finding the Structure of Words </b>
