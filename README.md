@@ -27,16 +27,16 @@ Natural Language Processing
 >
 > Finding the Structure of Documents
 >
->>> Sentence Boundary Detection
->>> Topic Boundary Detection
+>> Sentence Boundary Detection<br/>
+>> Topic Boundary Detection<br/>
 >>
 >> Methods
 >>
->>> Generative Sequence Classification Methods
->>> Discriminative Local Classification Methods
->>> Discriminative Sequence Classification Methods
->>> Hybrid Approaches
->>> Extensions for Global Modeling for Sentence Segmentation
+>>> Generative Sequence Classification Methods<br/>
+>>> Discriminative Local Classification Methods<br/>
+>>> Discriminative Sequence Classification Methods<br/>
+>>> Hybrid Approaches<br/>
+>>> Extensions for Global Modeling for Sentence Segmentation<br/>
 
 
 # Important Questions Covered
