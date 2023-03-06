@@ -26,17 +26,18 @@ Natural Language Processing
 >>> 1.3.5 Morphology Induction<br/>
 >
 > Finding the Structure of Documents
->
->> Sentence Boundary Detection<br/>
->> Topic Boundary Detection<br/>
+
+>> 2.1 Introduction
+>>> 2.1.1 Sentence Boundary Detection<br/>
+>>> 2.1.2 Topic Boundary Detection<br/>
 >>
->> Methods
+>> 2.2 Methods
 >>
->>> Generative Sequence Classification Methods<br/>
->>> Discriminative Local Classification Methods<br/>
->>> Discriminative Sequence Classification Methods<br/>
->>> Hybrid Approaches<br/>
->>> Extensions for Global Modeling for Sentence Segmentation<br/>
+>>> 2.2.1 Generative Sequence Classification Methods<br/>
+>>> 2.2.2 Discriminative Local Classification Methods<br/>
+>>> 2.2.3 Discriminative Sequence Classification Methods<br/>
+>>> 2.2.4 Hybrid Approaches<br/>
+>>> 2.2.5 Extensions for Global Modeling for Sentence Segmentation<br/>
 
 
 # Important Questions Covered
